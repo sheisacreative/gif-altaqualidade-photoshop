@@ -1,5 +1,4 @@
 # Salvar GIF com alta qualidade | Photoshop CC
-Script para Photoshop que salva um GIF em alta qualidade na mesma pasta do arquivo .psd original e com o mesmo nome.
 
 Este script para Photoshop salva a imagem em GIF de alta qualidade, na mesma pasta do psd original e com o mesmo nome.
 
